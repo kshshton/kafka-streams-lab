@@ -30,3 +30,24 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ / IDE
+.idea/
+*.iml
+out/
+
+# Kotlin
+.kotlin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Idea
+.idea/*
+!.idea/codeStyles/
+!.idea/runConfigurations/
